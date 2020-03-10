@@ -1,0 +1,28 @@
+0. Acquire macbook
+1. Download
+	- Spectacle
+		ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+		add ~/bin/subl to your executable path saved in .bash_profile
+	- Iterm2 and Customization
+	- Slack from App Store
+	- Xcode from App Store
+	- Install Brew
+		* Install jq
+		* Install zsh
+		* Installl zsh-completions
+
+		YMMV
+		* python@2
+		* python	
+		* pyenv
+		* virtualenv
+		* pip
+	- Setup ohmyzsh
+
+   YMMV Download
+	- Intellij
+	- 
+
+
+Customize iterm2
+https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961
